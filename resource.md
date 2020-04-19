@@ -1,3 +1,3 @@
 #### Links
 
-**Frontend Architecture**
+*Frontend Architecture*
